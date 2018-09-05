@@ -14,7 +14,7 @@
         $(document).ready(function () {
 
             //================================INSTANTIATION STARTS================================
-
+            //Update git
             //Populate animal type (e.g Dog, Cat, Rabbit etc.)
             //        var obj = {};
             //        $.ajax({
